@@ -1,0 +1,30 @@
+{
+  "name": "ticketbot",
+  "version": "1.0.0",
+  "description": "A ticketbot for discord servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "dependencies": {
+    "@agc93/privatebin": "^0.0.2",
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhanessKA/ticketbot.git"
+  },
+  "keywords": [
+    "idk"
+  ],
+  "author": "KhanessKA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhanessKA/ticketbot/issues"
+  },
+  "homepage": "https://github.com/KhanessKA/ticketbot#readme"
+}
