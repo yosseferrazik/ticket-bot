@@ -1,7 +1,7 @@
 
 # Configuracion
 ### Abre `config.json` y substituye
-{
+<code>{
     "token": "Token",
 
     "clientId": "Id del bot",
@@ -15,3 +15,4 @@
     "roleSupport": "¿es necesario comentar esto ?",
     "ticketChannel": "Canal del ticket"
   }
+</code>
