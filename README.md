@@ -1,7 +1,7 @@
 
 # Configuracion
 ### Abre `config.json` y substituye
-<code>{
+{{
     "token": "Token",
 
     "clientId": "Id del bot",
@@ -14,5 +14,4 @@
     "parentOpened": "Categoria donde se crearan los canales",     
     "roleSupport": "¿es necesario comentar esto ?",
     "ticketChannel": "Canal del ticket"
-  }
-</code>
+ } }
